@@ -1,0 +1,11 @@
+flask
+numpy
+scikit-learn
+
+sudo apt-get install python3-flask
+
+sudo apt-get install python3-numpy
+
+sudo apt-get install python3-sklearn
+
+python3.app.py
